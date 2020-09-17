@@ -5,6 +5,7 @@
 # i=0
 # j=0
 # ds={}
+##sorting
 # while(i<len(a) and j<len(b)):
 #     if a[i]<b[j]:
 #         ds[a[i]]=1
@@ -88,4 +89,3 @@ while(i<len(a) and j<len(b)):
 
 print(mini)
 print(minil)
-
